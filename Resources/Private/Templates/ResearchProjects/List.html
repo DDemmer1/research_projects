@@ -1,0 +1,7 @@
+
+
+<f:for each="{researchList}" as="research">
+	<div><p>Von:{research.titel} {research.vorname} {research.name}: <f:link.external uri="{research.projektURL}">{research.projekttitel}</f:link.external>, {research.laufzeit}, Abteilung:{research.abteilung}</p></div>
+	<hr>
+</f:for>
+

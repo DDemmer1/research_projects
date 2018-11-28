@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff version="1.0">
+	<file source-language="en" datatype="plaintext" original="messages" date="2017-11-27T17:38:32Z"
+		  product-name="research_projects">
+		<header/>
+		<body>
+			<trans-unit id="extension.title">
+				<source>Research Projects</source>
+			</trans-unit>
+			<trans-unit id="tx_researchprojects_domain_model_research">
+				<source>Research</source>
+			</trans-unit>
+
+			<trans-unit id="tx_researchprojects_domain_model_research.titel">
+				<source>Titel</source>
+			</trans-unit>
+
+			<trans-unit id="tx_researchprojects_domain_model_research.vorname">
+				<source>Vorname</source>
+			</trans-unit>
+
+			<trans-unit id="tx_researchprojects_domain_model_research.name">
+				<source>Name</source>
+			</trans-unit>
+
+			<trans-unit id="tx_researchprojects_domain_model_research.weitere">
+				<source>Weitere</source>
+			</trans-unit>
+
+			<trans-unit id="tx_researchprojects_domain_model_research.projekttitel">
+				<source>Projekttitel</source>
+			</trans-unit>
+
+			<trans-unit id="tx_researchprojects_domain_model_research.abteilung">
+				<source>Abteilung</source>
+			</trans-unit>
+
+			<trans-unit id="tx_researchprojects_domain_model_research.foerderung">
+				<source>Foerderung</source>
+			</trans-unit>
+
+			<trans-unit id="tx_researchprojects_domain_model_research.betreuer">
+				<source>Betreuer</source>
+			</trans-unit>
+
+			<trans-unit id="tx_researchprojects_domain_model_research.betreuerURL">
+				<source>BetreuerURL</source>
+			</trans-unit>
+
+			<trans-unit id="tx_researchprojects_domain_model_research.nameURL">
+				<source>NameURL</source>
+			</trans-unit>
+
+			<trans-unit id="tx_researchprojects_domain_model_research.projektURL">
+				<source>ProjektURL</source>
+			</trans-unit>
+
+			<trans-unit id="tx_researchprojects_domain_model_research.laufzeit">
+				<source>Laufzeit</source>
+			</trans-unit>
+
+
+
+		</body>
+	</file>
+</xliff>
